@@ -37,7 +37,7 @@ DishCraft is a web-based AI recipe generator built with Python, Gradio, and the 
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/mariambanyounis/DishCraft-AI-Recipe-Generator.git
+git clone https://github.com/mariambanyyounis/DishCraft-AI-Recipe-Generator.git
 cd DishCraft-AI-Recipe-Generator
 ```
 
