@@ -3,7 +3,7 @@
 **Turn everyday ingredients into personalized recipes with AI.**
 
 DishCraft is a web-based AI recipe generator built with Python, Gradio, and the Google Gemini API. It helps users discover meal ideas using ingredients they already have, while considering their dietary preferences and available cooking time.
-
+🚀 **Live Demo:** https://dishcraft-ai-recipe-generator.onrender.com
 ## ✨ Features
 
 - **AI-Powered Recipe Generation:** Generates recipes from user-provided ingredients using Google Gemini.
